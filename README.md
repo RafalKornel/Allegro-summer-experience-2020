@@ -9,4 +9,4 @@ on MNIST data set, a model that would predict if hand wrote digit
 is primary or complex. It had to implement *Stochastic gradient descent* with momentum
 on logistic regresion. 
 
-A complete overview of results is included in *sprawozdanie.pdf*, but in Polish.
+A complete overview (in Polish) of results is included in *sprawozdanie.pdf*.
